@@ -7,7 +7,6 @@ nltk
 uvicorn
 requests
 python-multipart
-re
 bs4
 fake_useragent
 sklearn
