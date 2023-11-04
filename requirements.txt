@@ -8,6 +8,6 @@ uvicorn
 requests
 python-multipart
 bs4
-
+aiohttp
 fake_useragent
 scikit-learn
